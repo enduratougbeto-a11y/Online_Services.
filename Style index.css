@@ -5,29 +5,29 @@
 .ma_classe {
     color: white;
     text-align: center;
-    font-size: 16px;
+    font-size: 1.2em;
 }
 
 p {
     font-family: DM serif Text;
     text-align: center;
-    font-size: 16px;
+    font-size: 1.3em;
 }
 
 body {
     background-color: black;
     color: white;
-    font-size: 16px;
+    font-size: 1.2em;
 }
 
 a {
     color: red;
-    font-size: 16px;
+    font-size: 1.5em;
 }
 
 header {
     color: blue;
-    font-size: 20px;
+    font-size: 3.5em;
     background-color: white;
     text-align: center;
     font-family: Bodoni Moda;
@@ -35,7 +35,7 @@ header {
 
 .bas-de-page {
     color: greenyellow;
-    font-size: 16px;
+    font-size: 1.2em;
 }
 
 .text {
@@ -55,3 +55,4 @@ img {
     background: black;
 
 }
+
